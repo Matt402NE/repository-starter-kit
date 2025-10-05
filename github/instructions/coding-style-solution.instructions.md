@@ -21,5 +21,16 @@ A COPILOT-INSTRUCTIONS.md file should be included in the Visual Studio solution.
 ## Naming Conventions
 - Use `Proper Case` for solution name.
 - The name of the solution is normally `{Full Solution Name} .NET Solution`
+
+## Solution Folder Structure
+Each application (`Console App`, `Blazor App`, `Web API`, eg.) should use Microsoft's recommended best practices.  Each application type is unique and there isn't a common folder structure between them.
+
+Each application should have its own folder under the `/src/` folder.  
+
+- `/src/` — Main application and class library projects
+- `/tests/` — Unit and integration tests  
+- `/docs/` — Architecture, standards, and agent guidance  
+- `/build/` — CI/CD scripts and configuration  
+
 # References
 - Context by Microsoft for [What are solutions and projects in Visual Studio?](](https://learn.microsoft.com/en-us/visualstudio/ide/solutions-and-projects-in-visual-studio?view=vs-2022))
