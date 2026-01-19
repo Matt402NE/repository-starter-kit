@@ -39,3 +39,6 @@ These are other repos that inspired the creation of this starter kit.
 
 * [SebastienDegodez/copilot-instructions](https://github.com/SebastienDegodez/copilot-instructions)
 * [Robotti-io/copilot-security-instructions](https://github.com/Robotti-io/copilot-security-instructions)
+* [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
+* [automazeio/ccpm](https://github.com/automazeio/ccpm)
+
