@@ -1,0 +1,6 @@
+## Obsidian 
+## 
+## Get latest from https://publish.obsidian.md/git-doc/Tips-and-Tricks
+
+# Exclude all settings (including plugin and hotkey configurations)
+.obsidian/
